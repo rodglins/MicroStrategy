@@ -1,0 +1,2 @@
+# MicroStrategy
+Exercícios em MicroStrategy
